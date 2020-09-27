@@ -9,3 +9,5 @@ I hate involution, but there is nothing I can do, I can only hope that I become 
 Those who can't come to the best of their ambitions can have no regrets. Who can ridicule them?
 
 I hope I can finally get a good offer!
+
+It’s worth mentioning that I don’t play LOL, but I like the IG and the K/DA very much.
