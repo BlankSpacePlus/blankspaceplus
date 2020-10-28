@@ -1,13 +1,11 @@
 ### Welcome to my blank space! 👋
 
-![](https://github.com/ChenYikunReal/ChenYikunReal/blob/master/kda3.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](/ali.jpg)
 
-I usually prefer to use Java and Python, now I am learning C++.
+I studied software engineering during my undergraduate course.
 
-I hate involution, but there is nothing I can do, I can only hope that I become better.
+In the use of programming languages, I am good at Java, and I often use C, C++, Python and other languages.
 
-Those who can't come to the best of their ambitions can have no regrets. Who can ridicule them?
+At present, he has won the first prize of the 11th Lanqiao Cup Provincial Level, and the national competition has not yet come out.
 
-I hope I can finally get a good offer!
-
-It’s worth mentioning that I don’t play LOL, but I like the IG and the K/DA very much.
+If there is a will, things will happen. Hope all efforts will have a good result!
