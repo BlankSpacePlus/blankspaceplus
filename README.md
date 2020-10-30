@@ -1,5 +1,9 @@
 ### Welcome to my blank space! 👋
 
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=ChenYikunReal&show_icons=true&theme=merko)
+
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenYikunReal&layout=compact&theme=merko)
+
 ![](/ali.jpg)
 
 I studied software engineering during my undergraduate course.
