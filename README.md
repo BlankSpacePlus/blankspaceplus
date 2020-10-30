@@ -1,10 +1,12 @@
 ### Welcome to my blank space! 👋
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=ChenYikunReal&show_icons=true&theme=merko)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChenYikunReal&show_icons=true&theme=merko" />
+</a>
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenYikunReal&layout=compact&theme=merko)
-
-![](/ali.jpg)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenYikunReal&layout=compact&theme=merko" />
+</a>
 
 I studied software engineering during my undergraduate course.
 
