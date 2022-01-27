@@ -9,4 +9,6 @@ I am good at using ![Java](https://img.shields.io/badge/-Java-3f4441?style=plast
 
 I often use ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git), ![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql), ![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=plastic&logo=springboot)
 
-The research direction I am interested in：**Software Engineering** / **Big Data** / **Data Science** / **Financial Technology**
+The research direction I am interested in：**Software Engineering** / **Data Science** / **Block Chain**
+
+![Snake animation](https://github.com/BlankSpacePlus/BlankSpacePlus/blob/output/github-contribution-grid-snake.svg)
