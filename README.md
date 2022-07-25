@@ -18,18 +18,20 @@
   <tr>
     <td><a href="https://github.com/blankspaceplus" target="_blank"><img src="https://activity-graph.herokuapp.com/graph?username=BlankSpacePlus&custom_title=my%20contributions&theme=minimal" alt="Contribution统计"></a></td>
   </tr>
-</table>
-
-- 🌲 Java, Python, C/C++, JavaScript, ...
-- 🌳 Git, SSM, MySQL, Linux, Jupyter, ...
-- 🌱 Machine Learning, Deep Learning, Go, ...
-- 💻 IntelliJ IDEA, PyCharm, CLion, Visual Studio, Visual Studio Code, Eclipse, GoLand, WebStorm, DataGrip, ...
-- 🎓 CSDN Blog Expert😎
-- 🐇 I'm one in a million. I always fancy you, because you make you feel special.
-- 🍀 Forever Lucky. Forever Young.
-- 🐹 🥬🐶, and 🐹🐹.
-
-<table border = "1" align="center">
+  <tr>
+    <td>
+      <ul>
+        <li>🌳 Java, Python, C/C++, JavaScript, ...</li>
+        <li>🌲 Git, SSM, MySQL, Linux, Jupyter, ...</li>
+        <li>🌱 Machine Learning, Deep Learning, Go, ...</li>
+        <li>💻 IntelliJ IDEA, PyCharm, CLion, Visual Studio, Visual Studio Code, Eclipse, GoLand, WebStorm, DataGrip, ...</li>
+        <li>🎓 CSDN Blog Expert😎</li>
+        <li🐇 I'm one in a million. I always fancy you, because you make you feel special.</li>
+        <li>🍀 Forever Lucky. Forever Young.</li>
+        <li>🐹 🥬🐶, and 🐹🐹.</li>
+      </ul>
+    </td>
+  </tr>
   <tr>
     <td><a href="https://github.com/blankspaceplus" target="_blank"><img src="https://github.com/BlankSpacePlus/BlankSpacePlus/blob/output/github-contribution-grid-snake.svg" alt="Contribution贪吃蛇"></a></td>
   </tr>
