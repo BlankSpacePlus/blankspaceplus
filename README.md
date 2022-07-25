@@ -9,11 +9,11 @@
 
 <table border = "1" align="center">
   <tr>
-    <td><a href="https://github.com/blankspaceplus" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlankSpacePlus&theme=gruvbox" alt="基础数据统计"></a></td>
-    <td><a href="https://github.com/blankspaceplus" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BlankSpacePlus&theme=gruvbox" alt="编程语言统计"></a></td>
+    <td align="center"><a href="https://github.com/blankspaceplus" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlankSpacePlus&theme=gruvbox" alt="基础数据统计"></a></td>
+    <td align="center"><a href="https://github.com/blankspaceplus" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BlankSpacePlus&theme=gruvbox" alt="编程语言统计"></a></td>
   </tr>
   <tr>
-    <td colspan="2"><a href="https://github.com/blankspaceplus" target="_blank"><img src="https://activity-graph.herokuapp.com/graph?username=BlankSpacePlus&custom_title=my%20contributions&theme=minimal" alt="Contribution统计"></a></td>
+    <td colspan="2" align="center"><a href="https://github.com/blankspaceplus" target="_blank"><img src="https://activity-graph.herokuapp.com/graph?username=BlankSpacePlus&custom_title=my%20contributions&theme=minimal" alt="Contribution统计"></a></td>
   </tr>
   <tr>
     <td colspan="2">
@@ -30,6 +30,6 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2"><a href="https://github.com/blankspaceplus" target="_blank"><img src="https://github.com/BlankSpacePlus/BlankSpacePlus/blob/output/github-contribution-grid-snake.svg" alt="Contribution贪吃蛇"></a></td>
+    <td colspan="2" align="center"><a href="https://github.com/blankspaceplus" target="_blank"><img src="https://github.com/BlankSpacePlus/BlankSpacePlus/blob/output/github-contribution-grid-snake.svg" alt="Contribution贪吃蛇"></a></td>
   </tr>
 </table>
