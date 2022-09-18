@@ -1,6 +1,3 @@
--- ----------------------------
--- Function structure for select_hello_world
--- ----------------------------
 USE `dbname`;
 DROP FUNCTION IF EXISTS `select_hello_world`;
 DELIMITER ;;
