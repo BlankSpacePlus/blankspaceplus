@@ -29,6 +29,6 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://github.com/blankspaceplus" target="_blank"><img src="https://github.com/BlankSpacePlus/BlankSpacePlus/blob/output/github-contribution-grid-snake.svg" alt="Contribution贪吃蛇"></a></td>
+    <td colspan="2" align="center"><a href="https://github.com/blankspaceplus" target="_blank"><img src="https://github.com/BlankSpacePlus/BlankSpacePlus/blob/output/github-snake.svg" alt="GitHub贪吃蛇"></a></td>
   </tr>
 </table>
