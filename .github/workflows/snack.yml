@@ -1,4 +1,4 @@
-name: Generate Datas
+name: snake
 
 on:
   schedule:
