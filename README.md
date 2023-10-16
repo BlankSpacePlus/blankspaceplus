@@ -14,7 +14,7 @@
     <td align="center"><a href="https://github.com/blankspaceplus" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blankspaceplus&theme=gruvbox" alt="编程语言统计"></a></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-profile-trophy.vercel.app/?username=blankspaceplus" alt="BEPb"></td>
+    <td colspan="2" align="center"><img src="https://github-profile-trophy.vercel.app/?username=blankspaceplus" alt="贡献等级评分"></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><a href="https://github.com/blankspaceplus" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=blankspaceplus&theme=vue" alt="Contribution统计"></a></td>
